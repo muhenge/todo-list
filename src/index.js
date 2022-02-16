@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import './style.css';
 import compare from './sort';
+
 const todos = [
   {
     index: 1,
@@ -29,9 +30,8 @@ window.onload = () => {
     const check = document.createElement('input');
     check.setAttribute('type', 'checkbox');
     li.appendChild(check);
-    
     li.innerHTML = `${todo.description}`;
 
     ul.appendChild(li);
   });
-}
+};
