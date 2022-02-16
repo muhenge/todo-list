@@ -13,8 +13,8 @@
 - Run `git clone https://github.com/muhenge/todo-list.git` in your terminal
 - cd into the folder
 - Run `npm install`
-- Run `npm build`
-- Run `npm start`
+- Run `npm run build`
+- Run `npm run start`
 
 ### Author
 
