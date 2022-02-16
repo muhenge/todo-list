@@ -1,8 +1,4 @@
-![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
-
-  <h1 align="center">Todo App</h1>
-
-![screenshot](./app_screenshot.png)
+<h1 align="center">Todo App</h1>
 
 ### Built with
 
